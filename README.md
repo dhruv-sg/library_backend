@@ -30,7 +30,7 @@ there are total 11 routes since this is purely nodejs project so handle this rou
                    "UID": 1
                  }
 
-3> to get student list  --> GET http://localhost:3001/student/list
+3> to get student list  --> GET http://localhost:3001/student/list<br>
 4> to get book list  --> GET http://localhost:3001/book/list
 5> to get perticular student with borrowed book  --> GET http://localhost:3001/student/:enrollment
 6> to see available books   -->  GET http://localhost:3001/Book/available
