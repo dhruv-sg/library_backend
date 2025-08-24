@@ -4,6 +4,8 @@ const Student = require('./../model/person')
 const Book  = require('./../model/book')
 const History  = require('./../model/history')
 
+
+//router for both borrow ad return book
 router.put('/:enrollment/:UID',async(req,res)=>{
     try {
         
